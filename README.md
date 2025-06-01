@@ -1,6 +1,7 @@
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sstryss&theme=chartreuse-dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sstryss&theme=shadow_red&show_icons=true)
+
 
 ---
 

@@ -1,4 +1,5 @@
 ## 📊 Estatísticas do GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_red&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&theme=chartreuse-dark&show_icons=true)
+
 
